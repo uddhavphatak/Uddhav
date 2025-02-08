@@ -3,8 +3,8 @@ const codeInput = document.getElementById('code');
 const submitBtn = document.getElementById('submit-btn');
 const resultDiv = document.getElementById('result');
 
-const secretCode = 'Sheetal'; // Replace with your secret code
-const nextPageUrl = 'main.html'; // Replace with the URL of the new page
+const secretCode = 'Sanyukta'; // Replace with your secret code
+const nextPageUrl = 'hellomau'; // Replace with the URL of the new page
 
 form.addEventListener('submit', (e) => {
 	e.preventDefault();
